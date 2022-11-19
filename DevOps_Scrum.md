@@ -5,7 +5,7 @@
 
 ![This is an image](iconmonstr-github-1.svg)
 
-DevOps vs Scrum DevOps Scrum Comparison DevOps overrules Scrum
+### DevOps vs Scrum DevOps Scrum Comparison DevOps overrules Scrum
 
 
 During our live DevOps classes and preparation courses of DevOps certification programs, we have figured out that there is a single question that we never miss. So today, I decided to bring this short post together to answer this question. This question is: “What are differences between DevOps and Scrum?”. Also known as "DevOps vs Scrum Comparison".
