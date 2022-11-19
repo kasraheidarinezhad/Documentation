@@ -10,8 +10,6 @@ Important Tips To Write Clean C# Code
 1. Use a Good IDE
 2. Use Meaningful Names
 3. Use Camel/Pascal Case Notation
-  - Camel Case Notation
-  - Pascal Case Notation
 4. Pay attention to Formatting
 5. Add Comments Whenever Neccesary
 6. Reuse Code
