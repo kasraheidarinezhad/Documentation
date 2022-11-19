@@ -3,7 +3,7 @@
 
 19 Nov 2022
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](iconmonstr-github-1.svg)
 
 DevOps vs Scrum DevOps Scrum Comparison DevOps overrules Scrum
 
@@ -12,7 +12,7 @@ During our live DevOps classes and preparation courses of DevOps certification p
 
 Today I am going to cover top 6 of these differences. Here we go!
 
-** Difference-1: With DevOps, you deploy code in production at the end of each iteration (sprint), whereas with Scrum, your goal is to only prepare shippable code at the end of each iteration. **
+**Difference-1: With DevOps, you deploy code in production at the end of each iteration (sprint), whereas with Scrum, your goal is to only prepare shippable code at the end of each iteration.**
 
 This is one of the major drawbacks of Scrum framework. One of the most important reasons (if not first) why Scrum fails in many organizations. Unless you deploy your code at the end of each iteration, what you normally do is to store your code in staging servers, or even worse let it sleep in your code version controlling (CVS) system, until a project director (who usefully has no clue about software engineering) decides when your code should go to production. I am aware of major banks and telecommunications companies who do production deployments in every 6th month in a year. This sounds like a joke, but it isn’t. And these big bangs cost for them at lot of top priority and top severity incidents in their production systems, reduction of employee morale and increase of employee resume updates. Here I am not even mentioning all finger-pointing and political fights between totally non-technical people who look for victims to justify their failures.
 
