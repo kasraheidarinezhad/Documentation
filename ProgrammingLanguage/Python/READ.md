@@ -33,4 +33,4 @@ In this tutorial Python will be written in a text editor. It is possible to writ
 - Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses.
 - Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose.
 
-Read more in [reference](https://www.w3schools.com/python/python_intro.asp) to start learning python.
+> Read more in [reference](https://www.w3schools.com/python/python_intro.asp) to start learning python.

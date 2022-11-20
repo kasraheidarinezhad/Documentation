@@ -29,4 +29,4 @@ Important Tips To Write Clean C# Code
 20.Don’t ignore caught errors
 Practice to Write Clean C# Code
 
-> For read detail information, refer to reference "https://codewithmukesh.com/blog/write-clean-csharp-code"
+> For read detail information, refer to [reference](https://codewithmukesh.com/blog/write-clean-csharp-code)
