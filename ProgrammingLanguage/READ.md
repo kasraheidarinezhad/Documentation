@@ -6,5 +6,5 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDeri
 
 # Table of Contents
 - [Naming convention in programming](Naming_Convention_Programming.md)
-- [Learn more about C# programming here](/C#/READ.md)
+- [Learn more about C# programming here](C#/READ.md)
 - [Learn more about python here](Python/READ.md)
